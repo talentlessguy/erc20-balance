@@ -1,4 +1,12 @@
-# erc20-balance
+<br />
+<br />
+
+<p align="center">
+  <img src="logo.svg" width="400px" />
+</p>
+
+<br />
+<br />
 
 ![Vulnerabilities][vulns-badge-url]
 [![Version][v-badge-url]][npm-url]
