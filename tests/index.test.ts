@@ -2,6 +2,9 @@ import { suite } from 'uvu'
 import * as dotenv from '@tinyhttp/dotenv'
 import * as assert from 'uvu/assert'
 import { ERC20Balance } from '../src/index'
+import fetch from 'node-fetch'
+
+globalThis.fetch = fetch
 
 dotenv.config()
 

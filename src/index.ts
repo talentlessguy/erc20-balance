@@ -1,18 +1,3 @@
-if (typeof fetch === 'undefined') {
-  // @ts-ignore
-  if (typeof require === 'undefined') {
-    /**
-     * Load Node.js polyfill if running in Node
-     */
-    const mod = await import('node-fetch')
-    // @ts-ignore
-    globalThis.fetch = mod.default
-  } else {
-    // @ts-ignore
-    globalThis.fetch = require('node-fetch')
-  }
-}
-
 export const contracts: { address: string; symbol: string; decimal: number }[] = [
   {
     address: '0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7',
