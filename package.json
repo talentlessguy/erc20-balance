@@ -9,7 +9,8 @@
     "build": "tsc",
     "test": "node --loader ts-node/esm --experimental-specifier-resolution=node node_modules/uvu/bin.js",
     "test:coverage": "c8 --include=src pnpm test",
-    "test:report": "c8 report --reporter=text-lcov > coverage.lcov"
+    "test:report": "c8 report --reporter=text-lcov > coverage.lcov",
+    "prepare": "pnpm build"
   },
   "repository": {
     "type": "git",

@@ -7,7 +7,6 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
-    "noEmit": true,
     "lib": ["ES2019", "DOM"],
     "preserveSymlinks": true,
     "outDir": "dist",
