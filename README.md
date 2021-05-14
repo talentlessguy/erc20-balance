@@ -1,6 +1,6 @@
 # erc20-balance
 
-Get ERC-20 token (ChainLink, FileCoin etc) balances with JavaScript. Supports browsers, Node.js and Deno.
+Get ERC-20 token (Chainlink, Filecoin etc) balances with JavaScript. Supports browsers, Node.js and Deno.
 
 ## Usage
 
