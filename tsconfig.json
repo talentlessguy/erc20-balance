@@ -9,7 +9,7 @@
     "isolatedModules": true,
     "lib": ["ES2019", "DOM"],
     "preserveSymlinks": true,
-    "outDir": "dist",
+    "noEmit": true,
     "declaration": true,
     "declarationDir": "dist"
   },
