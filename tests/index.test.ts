@@ -39,4 +39,16 @@ t('throws an error for unsupported contract', async () => {
   }
 })
 
+t('sends NOTOK for when API key is not present', async () => {
+  try {
+    await ERC20Balance({
+      addr: '0x5caf454ba92e6f2c929df14667ee360ed9fd5b26',
+      coin: 'DEV',
+      apiKey: process.env.ETHERSCAN_KEY
+    })
+  } catch (e) {
+    assert.match(e.message, new RegExp('NOT_OK'))
+  }
+})
+
 t.run()
