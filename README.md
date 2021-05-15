@@ -46,18 +46,6 @@ ERC20Balance({
 }).then((res) => console.log(res))
 ```
 
-### Browser
-
-```js
-import { ERC20Balance } from 'https://unpkg.com/erc20-balance?module'
-
-ERC20Balance({
-  addr: '0xD3B282e9880cDcB1142830731cD83f7ac0e1043f',
-  coin: 'LINK',
-  apiKey: API_KEY
-}).then((res) => console.log(res))
-```
-
 [vulns-badge-url]: https://img.shields.io/snyk/vulnerabilities/npm/erc20-balance.svg?style=flat-square
 [v-badge-url]: https://img.shields.io/npm/v/erc20-balance.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/erc20-balance
