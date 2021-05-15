@@ -1,8 +1,11 @@
 {
   "name": "erc20-balance",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Get ERC-20 token balances with JavaScript. Supports Node.js and Deno",
-  "exports": "./dist/index.js",
+  "exports": {
+    "./": "./dist/index.js",
+    "./dist/list.json": "./dist/list.json"
+  },
   "types": "./dist/index.js",
   "type": "module",
   "files": [
