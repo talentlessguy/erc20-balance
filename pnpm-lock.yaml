@@ -7,6 +7,7 @@ specifiers:
   c8: ^7.7.2
   node-fetch: ^2.6.1
   rollup: ^2.48.0
+  rollup-plugin-copy-assets: ^2.0.3
   ts-node: ^9.1.1
   tslib: ^2.2.0
   typescript: ^4.2.4
@@ -19,6 +20,7 @@ devDependencies:
   c8: 7.7.2
   node-fetch: 2.6.1
   rollup: 2.48.0
+  rollup-plugin-copy-assets: 2.0.3_rollup@2.48.0
   ts-node: 9.1.1_typescript@4.2.4
   tslib: 2.2.0
   typescript: 4.2.4
@@ -215,6 +217,15 @@ packages:
       signal-exit: 3.0.3
     dev: true
 
+  /fs-extra/7.0.1:
+    resolution: {integrity: sha512-YJDaCJZEnBmcbw13fvdAM9AwNOJwOzrE4pqMqBq5nFiEqXUqHwlK4B+3pUw6JNvfSPtX05xFHtYy/1ni01eGCw==}
+    engines: {node: '>=6 <7 || >=8'}
+    dependencies:
+      graceful-fs: 4.2.6
+      jsonfile: 4.0.0
+      universalify: 0.1.2
+    dev: true
+
   /fs.realpath/1.0.0:
     resolution: {integrity: sha1-FQStJSMVjKpA20onh8sBQRmU6k8=}
     dev: true
@@ -244,6 +255,10 @@ packages:
       minimatch: 3.0.4
       once: 1.4.0
       path-is-absolute: 1.0.1
+    dev: true
+
+  /graceful-fs/4.2.6:
+    resolution: {integrity: sha512-nTnJ528pbqxYanhpDYsi4Rd8MAeaBA67+RZ10CM1m3bTAVFEDcd5AuA4a6W5YkGZ1iNXHzZz8T6TBKLeBuNriQ==}
     dev: true
 
   /has-flag/4.0.0:
@@ -308,6 +323,12 @@ packages:
     dependencies:
       html-escaper: 2.0.2
       istanbul-lib-report: 3.0.0
+    dev: true
+
+  /jsonfile/4.0.0:
+    resolution: {integrity: sha1-h3Gq4HmbZAdrdmQPygWPnBDjPss=}
+    optionalDependencies:
+      graceful-fs: 4.2.6
     dev: true
 
   /kleur/4.1.4:
@@ -410,6 +431,15 @@ packages:
     hasBin: true
     dependencies:
       glob: 7.1.7
+    dev: true
+
+  /rollup-plugin-copy-assets/2.0.3_rollup@2.48.0:
+    resolution: {integrity: sha512-ETShhQGb9SoiwcNrvb3BhUNSGR89Jao0+XxxfzzLW1YsUzx8+rMO4z9oqWWmo6OHUmfNQRvqRj0cAyPkS9lN9w==}
+    peerDependencies:
+      rollup: '>=1.1.2'
+    dependencies:
+      fs-extra: 7.0.1
+      rollup: 2.48.0
     dev: true
 
   /rollup/2.48.0:
@@ -530,6 +560,11 @@ packages:
     resolution: {integrity: sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==}
     engines: {node: '>=4.2.0'}
     hasBin: true
+    dev: true
+
+  /universalify/0.1.2:
+    resolution: {integrity: sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg==}
+    engines: {node: '>= 4.0.0'}
     dev: true
 
   /uvu/0.5.1:

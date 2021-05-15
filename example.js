@@ -1,5 +1,8 @@
+import fetch from 'node-fetch'
 import * as dotenv from '@tinyhttp/dotenv'
-import { ERC20Balance } from './src/index'
+import { ERC20Balance } from './dist/index.js'
+
+globalThis.fetch = fetch
 
 dotenv.config()
 
