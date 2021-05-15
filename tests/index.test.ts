@@ -11,13 +11,13 @@ dotenv.config()
 const t = suite('ERC20Balance')
 
 t('works for a supported contract', async () => {
-  const balance = await ERC20Balance({
+  const { balance, symbol } = await ERC20Balance({
     addr: '0xD3B282e9880cDcB1142830731cD83f7ac0e1043f',
     coin: 'DEV',
     apiKey: process.env.ETHERSCAN_KEY
   })
 
-  // assert.type(balance, 'number')
+  assert.equal(symbol, 'DEV')
   assert.equal(1, balance)
 })
 

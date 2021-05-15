@@ -13,7 +13,9 @@
 ![Last commit][last-commit-badge-url]
 ![Minified size][size-badge-url] [![Downloads][dl-badge-url]][npm-url] [![GitHub Workflow Status][gh-actions-img]][github-actions] [![Codecov][cov-badge-url]][cov-url]
 
-Get ERC-20 token (Chainlink, Filecoin etc) balances with JavaScript. Supports browsers, Node.js and Deno.
+Get 2000+ ERC-20 token balances with JavaScript. Supports Node.js and Deno.
+
+> JSON file is generated using [TokenLists](https://tokenlists.org) endpoitns
 
 ## Usage
 
