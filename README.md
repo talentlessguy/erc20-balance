@@ -24,6 +24,9 @@ Get 2000+ ERC-20 token balances with JavaScript. Supports Node.js and Deno.
 ```js
 import { ERC20Balance } from 'erc20-balance'
 import * as dotenv from '@tinyhttp/dotenv'
+import fetch from 'node-fetch'
+
+globalThis.fetch = fetch
 
 dotenv.config()
 
@@ -37,7 +40,7 @@ ERC20Balance({
 ### Deno
 
 ```js
-import { ERC20Balance } from 'https://deno.land/x/erc20_balance/src/index.ts'
+import { ERC20Balance } from 'https://deno.land/x/erc20_balance/mod.ts'
 
 ERC20Balance({
   addr: '0xD3B282e9880cDcB1142830731cD83f7ac0e1043f',
