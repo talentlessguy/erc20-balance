@@ -17490,5 +17490,13 @@
     "logoURI": "https://zapper.fi/images/zLOT-icon.png",
     "name": "zLOT",
     "symbol": "zLOT"
+  },
+  {
+    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/aeternity_28_2.png",
+    "name": "Aeternity",
+    "symbol": "AE"
   }
 ]
