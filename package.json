@@ -1,6 +1,6 @@
 {
   "name": "erc20-balance",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Get ERC-20 token balances with JavaScript. Supports Node.js and Deno",
   "exports": {
     "./": "./",
@@ -17,7 +17,7 @@
     "test": "node --loader ts-node/esm --experimental-specifier-resolution=node node_modules/uvu/bin.js",
     "test:coverage": "c8 --include=src pnpm test",
     "test:report": "c8 report --reporter=text-lcov > coverage.lcov",
-    "prepare": "pnpm build"
+    "prepare": "pnpm build && pnpm test"
   },
   "repository": {
     "type": "git",
