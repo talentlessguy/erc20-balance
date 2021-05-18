@@ -17,23 +17,5 @@ export default [
         ]
       })
     ]
-  },
-  {
-    input: 'src/index.ts',
-    output: [
-      {
-        file: 'dist/index.cjs',
-        format: 'cjs'
-      }
-    ],
-    plugins: [
-      typescript({ include: ['./src/**/*.ts'], plugins: [{ transform: '@magic-works/commonjs-import.meta' }] }),
-      copy({
-        assets: [
-          // You can include directories
-          'src/list.json'
-        ]
-      })
-    ]
   }
 ]
