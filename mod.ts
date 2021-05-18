@@ -1,6 +1,6 @@
-import { shared, ERC20BalanceArgs } from './src/shared.ts'
+import { shared, ERC20BalanceArgs, Token } from './src/shared.ts'
 
-const list = JSON.parse(await Deno.readTextFile('./src/list.json'))
+const list = JSON.parse(await Deno.readTextFile('./src/list.json')) as Token[]
 
 export { list }
 
