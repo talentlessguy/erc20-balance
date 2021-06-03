@@ -12,17 +12,37 @@ export type ERC20BalanceArgs = { addr: string; coin: string; apiKey?: string }
 export const shared =
   (contracts: Token[]) =>
   async ({ addr, coin, apiKey = 'freekey' }: ERC20BalanceArgs) => {
-    const contract = contracts.find((x) => x.symbol === coin)
+    if (coin === 'ETH') {
+      const contract = {
+        chainId: 1,
+        decimals: 18,
+        logoURI: 'https://zapper.fi/images/ETH-icon.png',
+        name: 'Ethereum',
+        symbol: 'ETH'
+      }
 
-    if (!contract) throw new Error(`${coin} token is not supported`)
+      const url = `https://api.etherscan.io/api?module=account&action=balance&address=${addr}&tag=latest&apikey=${apiKey}`
 
-    const url = `https://api.etherscan.io/api?module=account&action=tokenbalance&contractaddress=${contract.address}&address=${addr}&tag=latest&apiKey=${apiKey}`
+      const res = await fetch(url)
 
-    const res = await fetch(url)
+      const json = await res.json()
 
-    const json = await res.json()
+      if (json.message === 'NOTOK') throw new Error(json.result)
 
-    if (json.message === 'NOTOK') throw new Error(json.result)
+      return { ...contract, balance: parseInt(json.result, 10) / 10 ** 18 }
+    } else {
+      const contract = contracts.find((x) => x.symbol === coin)
 
-    return { ...contract, balance: parseInt(json.result, 10) / 10 ** contract.decimals }
+      if (!contract) throw new Error(`${coin} token is not supported`)
+
+      const url = `https://api.etherscan.io/api?module=account&action=tokenbalance&contractaddress=${contract.address}&address=${addr}&tag=latest&apiKey=${apiKey}`
+
+      const res = await fetch(url)
+
+      const json = await res.json()
+
+      if (json.message === 'NOTOK') throw new Error(json.result)
+
+      return { ...contract, balance: parseInt(json.result, 10) / 10 ** contract.decimals }
+    }
   }
