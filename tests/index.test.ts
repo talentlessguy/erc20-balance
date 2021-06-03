@@ -1,6 +1,6 @@
 import { suite } from 'uvu'
 import * as dotenv from '@tinyhttp/dotenv'
-import * as assert from 'assert'
+import * as assert from 'uvu/assert'
 import { ERC20Balance } from '../src/index'
 import fetch from 'node-fetch'
 
@@ -17,15 +17,17 @@ t('works for a supported contract', async () => {
     apiKey: process.env.ETHERSCAN_KEY
   })
 
-  assert.deepStrictEqual(result, {
+  assert.is.not(result, {
     address: '0x5caf454ba92e6f2c929df14667ee360ed9fd5b26',
     chainId: 1,
     decimals: 18,
     logoURI: 'https://zapper.fi/images/DEV-icon.png',
     name: 'Dev Protocol',
     symbol: 'DEV',
-    balance: 1
+    balance: 0
   })
+
+  assert.type(result.balance, 'number')
 })
 
 t('throws an error for unsupported contract', async () => {
