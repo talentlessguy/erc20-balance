@@ -1,16 +1,16 @@
 <br />
 <br />
 
-<p align="center">
-  <img src="logo.svg" width="400px" />
-</p>
+<div align="center">
+  <img src="logo.svg" width="450px" />
+  <br /><br />
+
+![Vulnerabilities][vulns-badge-url] [![Version][v-badge-url]][npm-url] [![Downloads][dl-badge-url]][npm-url] [![GitHub Workflow Status][gh-actions-img]][github-actions] [![Codecov][cov-badge-url]][cov-url]
+
+</div>
 
 <br />
 <br />
-
-![Vulnerabilities][vulns-badge-url]
-[![Version][v-badge-url]][npm-url]
-![Minified size][size-badge-url] [![Downloads][dl-badge-url]][npm-url] [![GitHub Workflow Status][gh-actions-img]][github-actions] [![Codecov][cov-badge-url]][cov-url]
 
 Get 2000+ ERC-20 token balances with JavaScript. Supports Node.js and Deno.
 
@@ -48,12 +48,11 @@ ERC20Balance({
 }).then((res) => console.log(res))
 ```
 
-[vulns-badge-url]: https://img.shields.io/snyk/vulnerabilities/npm/erc20-balance.svg?style=flat-square
-[v-badge-url]: https://img.shields.io/npm/v/erc20-balance.svg?style=flat-square
+[vulns-badge-url]: https://img.shields.io/snyk/vulnerabilities/npm/erc20-balance.svg?style=for-the-badge&label=vulns
+[v-badge-url]: https://img.shields.io/npm/v/erc20-balance.svg?style=for-the-badge&label=&logo=npm
 [npm-url]: https://www.npmjs.com/package/erc20-balance
-[size-badge-url]: https://img.shields.io/bundlephobia/min/erc20-balance.svg?style=flat-square
-[cov-badge-url]: https://img.shields.io/codecov/c/gh/talentlessguy/erc20-balance?style=flat-square
+[cov-badge-url]: https://img.shields.io/codecov/c/gh/talentlessguy/erc20-balance?style=for-the-badge
 [cov-url]: https://codecov.io/gh/talentlessguy/erc20-balance
-[dl-badge-url]: https://img.shields.io/npm/dt/erc20-balance?style=flat-square
+[dl-badge-url]: https://img.shields.io/npm/dt/erc20-balance?style=for-the-badge
 [github-actions]: https://github.com/talentlessguy/erc20-balance/actions
-[gh-actions-img]: https://img.shields.io/github/workflow/status/talentlessguy/tinyhttp/CI?style=flat-square
+[gh-actions-img]: https://img.shields.io/github/workflow/status/talentlessguy/tinyhttp/CI?style=for-the-badge&label=&logo=github
