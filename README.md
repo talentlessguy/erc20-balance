@@ -55,4 +55,4 @@ ERC20Balance({
 [cov-url]: https://codecov.io/gh/talentlessguy/erc20-balance
 [dl-badge-url]: https://img.shields.io/npm/dt/erc20-balance?style=for-the-badge
 [github-actions]: https://github.com/talentlessguy/erc20-balance/actions
-[gh-actions-img]: https://img.shields.io/github/workflow/status/talentlessguy/tinyhttp/CI?style=for-the-badge&label=&logo=github
+[gh-actions-img]: https://img.shields.io/github/workflow/status/talentlessguy/erc20-balance/CI?style=for-the-badge&label=&logo=github
