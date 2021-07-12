@@ -16,6 +16,13 @@
     "symbol": "0XMR"
   },
   {
+    "chainId": 1,
+    "address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "decimals": 18
+  },
+  {
     "address": "0x7ff4169a6b5122b664c51c95727d87750ec07c84",
     "chainId": 1,
     "decimals": 18,
@@ -278,6 +285,14 @@
     "logoURI": "https://zapper.fi/images/ADX-icon.png",
     "name": "AdEx",
     "symbol": "ADX"
+  },
+  {
+    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/aeternity_28_2.png",
+    "name": "Aeternity",
+    "symbol": "AE"
   },
   {
     "address": "0xac4d22e40bf0b8ef4750a99ed4e935b99a42685e",
@@ -1304,6 +1319,13 @@
     "symbol": "BC"
   },
   {
+    "chainId": 1,
+    "address": "0x1234567461d3f8db7496581774bd869c83d51c93",
+    "name": "BitClave",
+    "symbol": "BCAT",
+    "decimals": 18
+  },
+  {
     "address": "0xae17f4f5ca32f77ea8e3786db7c0b2fe877ac176",
     "chainId": 1,
     "decimals": 18,
@@ -1944,12 +1966,26 @@
     "symbol": "BPP"
   },
   {
+    "chainId": 1,
+    "address": "0x01feeb6ed2a3cbfbac6bcfe9fc932dd1465d9b96",
+    "name": "Balancer 90% INCCOR-16 + 10% OCEAN Pool",
+    "symbol": "BPT",
+    "decimals": 18
+  },
+  {
     "address": "0x6c22b815904165f3599f0a4a092d458966bd8024",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/BPTN-icon.png",
     "name": "Bit Public Talent N",
     "symbol": "BPTN"
+  },
+  {
+    "chainId": 1,
+    "address": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40",
+    "name": "BlitzPredict",
+    "symbol": "BPX",
+    "decimals": 18
   },
   {
     "address": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
@@ -2256,6 +2292,13 @@
     "symbol": "BZRX"
   },
   {
+    "chainId": 1,
+    "address": "0x2791bfd60d232150bff86b39b7146c0eaaa2ba81",
+    "name": "BiFi",
+    "symbol": "BiFi",
+    "decimals": 18
+  },
+  {
     "address": "0x26e75307fc0c021472feb8f727839531f112f317",
     "chainId": 1,
     "decimals": 18,
@@ -2446,6 +2489,13 @@
     "logoURI": "https://zapper.fi/images/CFI-icon.png",
     "name": "CyberFi Token",
     "symbol": "CFI"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+    "name": "CyberFi Token",
+    "symbol": "CFi",
+    "decimals": 18
   },
   {
     "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
@@ -3022,6 +3072,13 @@
     "logoURI": "https://zapper.fi/images/CRO-icon.png",
     "name": "Crypto.com Coin",
     "symbol": "CRO"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3284f2f22563f27cef2912637b6a00f162317c4",
+    "name": "Cream 50% crYETH + 50% crYYCRV Pool",
+    "symbol": "CRPT",
+    "decimals": 18
   },
   {
     "address": "0x94ca37d108e89775dc8ae65f51ae28c2d9599f9a",
@@ -3872,6 +3929,13 @@
     "symbol": "DHT"
   },
   {
+    "chainId": 1,
+    "address": "0x9694eed198c1b7ab81addaf36255ea58acf13fab",
+    "name": "DoubleHelix",
+    "symbol": "DHX",
+    "decimals": 9
+  },
+  {
     "address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
     "chainId": 1,
     "decimals": 18,
@@ -3926,6 +3990,13 @@
     "logoURI": "https://zapper.fi/images/DISTX-icon.png",
     "name": "DistX",
     "symbol": "DISTX"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9",
+    "name": "Davincij15 Token",
+    "symbol": "DJ15",
+    "decimals": 9
   },
   {
     "address": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
@@ -4432,6 +4503,13 @@
     "symbol": "DXY"
   },
   {
+    "chainId": 1,
+    "address": "0xdc76450fd7e6352733fe8550efabff750b2de0e3",
+    "name": "BerezkaDynamic",
+    "symbol": "DYNA",
+    "decimals": 18
+  },
+  {
     "address": "0x3b7f247f21bf3a07088c2d3423f64233d4b069f7",
     "chainId": 1,
     "decimals": 2,
@@ -4768,6 +4846,13 @@
     "symbol": "ENTRP"
   },
   {
+    "chainId": 1,
+    "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+    "name": "NerveNetwork",
+    "symbol": "ENVT",
+    "decimals": 18
+  },
+  {
     "address": "0x87210f1d3422ba75b6c40c63c78d79324dabcd55",
     "chainId": 1,
     "decimals": 18,
@@ -4895,7 +4980,14 @@
     "name": "ETG Finance",
     "symbol": "ETGF"
   },
-
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://zapper.fi/images/ETH-icon.png",
+    "name": "Ethereum",
+    "symbol": "ETH"
+  },
   {
     "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
     "chainId": 1,
@@ -4999,6 +5091,13 @@
     "logoURI": "https://zapper.fi/images/EURXB-icon.png",
     "name": "EURxb",
     "symbol": "EURXB"
+  },
+  {
+    "chainId": 1,
+    "address": "0x89e3ac6dd69c15e9223be7649025d6f68dab1d6a",
+    "name": "EVAN",
+    "symbol": "EVAN",
+    "decimals": 18
   },
   {
     "address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
@@ -5825,6 +5924,13 @@
     "symbol": "GDAO"
   },
   {
+    "chainId": 1,
+    "address": "0x301c755ba0fca00b1923768fffb3df7f4e63af31",
+    "name": "Global Digital Content",
+    "symbol": "GDC",
+    "decimals": 18
+  },
+  {
     "address": "0x1b980e05943de3db3a459c72325338d327b6f5a9",
     "chainId": 1,
     "decimals": 18,
@@ -6015,6 +6121,13 @@
     "logoURI": "https://zapper.fi/images/GNY-icon.png",
     "name": "GNY",
     "symbol": "GNY"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
+    "name": "GNYerc20",
+    "symbol": "GNYerc20",
+    "decimals": 18
   },
   {
     "address": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c",
@@ -6487,6 +6600,13 @@
     "logoURI": "https://zapper.fi/images/HOPR-icon.png",
     "name": "HOPR",
     "symbol": "HOPR"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "name": "HoloToken",
+    "symbol": "HOT",
+    "decimals": 18
   },
   {
     "address": "0x19810559df63f19cfe88923313250550edadb743",
@@ -7225,6 +7345,13 @@
     "symbol": "KEX"
   },
   {
+    "chainId": 1,
+    "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+    "name": "SelfKey",
+    "symbol": "KEY",
+    "decimals": 18
+  },
+  {
     "address": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
     "chainId": 1,
     "decimals": 18,
@@ -7295,6 +7422,13 @@
     "logoURI": "https://zapper.fi/images/KIWI-icon.png",
     "name": "KIWI Token",
     "symbol": "KIWI"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb97d5cf2864fb0d08b34a484ff48d5492b2324a0",
+    "name": "KLON",
+    "symbol": "KLON",
+    "decimals": 18
   },
   {
     "address": "0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef",
@@ -7825,6 +7959,13 @@
     "symbol": "LOAD"
   },
   {
+    "chainId": 1,
+    "address": "0x95172ccbe8344fecd73d0a30f54123652981bd6f",
+    "name": "Meridian Network",
+    "symbol": "LOCK",
+    "decimals": 18
+  },
+  {
     "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
     "chainId": 1,
     "decimals": 18,
@@ -7903,6 +8044,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4de2573e27e648607b50e1cfff921a33e4a34405",
+    "name": "Lendroid Support Token",
+    "symbol": "LST",
+    "decimals": 18
   },
   {
     "address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
@@ -8135,6 +8283,13 @@
     "logoURI": "https://zapper.fi/images/MCI-icon.png",
     "name": "MCI Coin",
     "symbol": "MCI"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+    "name": "Monaco",
+    "symbol": "MCO",
+    "decimals": 8
   },
   {
     "address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
@@ -8505,6 +8660,13 @@
     "symbol": "MOBI"
   },
   {
+    "chainId": 1,
+    "address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+    "name": "Modefi",
+    "symbol": "MOD",
+    "decimals": 18
+  },
+  {
     "address": "0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438",
     "chainId": 1,
     "decimals": 18,
@@ -8655,6 +8817,13 @@
     "logoURI": "https://zapper.fi/images/MRPH-icon.png",
     "name": "Morpheus Network",
     "symbol": "MRPH"
+  },
+  {
+    "chainId": 1,
+    "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
+    "name": "Measurable Data Token",
+    "symbol": "MSDT",
+    "decimals": 18
   },
   {
     "address": "0x68aa3f232da9bdc2343465545794ef3eea5209bd",
@@ -8905,6 +9074,13 @@
     "symbol": "MYX"
   },
   {
+    "chainId": 1,
+    "address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
+    "name": "MarsToken",
+    "symbol": "Mars",
+    "decimals": 18
+  },
+  {
     "address": "0x075190c6130ea0a3a7e40802f1d77f4ea8f38fe2",
     "chainId": 1,
     "decimals": 18,
@@ -8943,6 +9119,13 @@
     "logoURI": "https://zapper.fi/images/NAWA-icon.png",
     "name": "Narwhale",
     "symbol": "NAWA"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9",
+    "name": "NIX Bridge Token",
+    "symbol": "NBT",
+    "decimals": 18
   },
   {
     "address": "0xeb58343b36c7528f23caae63a150240241310049",
@@ -9255,6 +9438,13 @@
     "logoURI": "https://zapper.fi/images/NRCH-icon.png",
     "name": "EnreachDAO",
     "symbol": "NRCH"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
+    "name": "Neutrino System Base Token",
+    "symbol": "NSBT",
+    "decimals": 6
   },
   {
     "address": "0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
@@ -9591,6 +9781,13 @@
     "logoURI": "https://zapper.fi/images/OPM-icon.png",
     "name": "Omega Protocol Mone",
     "symbol": "OPM"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda",
+    "name": "Open Predict Token",
+    "symbol": "OPT",
+    "decimals": 18
   },
   {
     "address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
@@ -10167,6 +10364,13 @@
     "logoURI": "https://zapper.fi/images/PLR-icon.png",
     "name": "Pillar",
     "symbol": "PLR"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9fbfed658919a896b5dc7b00456ce22d780f9b65",
+    "name": "PlutusDeFi",
+    "symbol": "PLT",
+    "decimals": 18
   },
   {
     "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
@@ -10969,6 +11173,20 @@
     "symbol": "RDN"
   },
   {
+    "chainId": 1,
+    "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+    "name": "Raiden Token",
+    "symbol": "RDNN",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6",
+    "name": "Rebased",
+    "symbol": "REB",
+    "decimals": 9
+  },
+  {
     "address": "0x87f5f9ebe40786d49d35e1b5997b07ccaa8adbff",
     "chainId": 1,
     "decimals": 9,
@@ -10999,6 +11217,13 @@
     "logoURI": "https://zapper.fi/images/REHAB-icon.png",
     "name": "NFT Rehab",
     "symbol": "REHAB"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+    "name": "Relevant",
+    "symbol": "REL",
+    "decimals": 18
   },
   {
     "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
@@ -11135,6 +11360,13 @@
     "logoURI": "https://zapper.fi/images/RFY-icon.png",
     "name": "RFYield Finance",
     "symbol": "RFY"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+    "name": "Rio Fuel Token",
+    "symbol": "RFuel",
+    "decimals": 18
   },
   {
     "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
@@ -11569,6 +11801,13 @@
     "symbol": "SAV3"
   },
   {
+    "chainId": 1,
+    "address": "0x309013d55fb0e8c17363bcc79f25d92f711a5802",
+    "name": "Soft Bitcoin",
+    "symbol": "SBTC",
+    "decimals": 9
+  },
+  {
     "address": "0x2579bb08387f0de7ab135edd6c2a985a3f577b6b",
     "chainId": 1,
     "decimals": 18,
@@ -11897,6 +12136,13 @@
     "symbol": "SLICE"
   },
   {
+    "chainId": 1,
+    "address": "0x10bae51262490b4f4af41e12ed52a0e744c1137a",
+    "name": "Soft Link",
+    "symbol": "SLINK",
+    "decimals": 9
+  },
+  {
     "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
     "chainId": 1,
     "decimals": 0,
@@ -12071,6 +12317,13 @@
     "logoURI": "https://zapper.fi/images/SOTA-icon.png",
     "name": "SOTA Finance",
     "symbol": "SOTA"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79c75e2e8720b39e258f41c37cc4f309e0b0ff80",
+    "name": "Phantasma Stake",
+    "symbol": "SOUL",
+    "decimals": 8
   },
   {
     "address": "0x9631483f28b7f5cbf7d435ab249be8f709215bc3",
@@ -12351,6 +12604,13 @@
     "logoURI": "https://zapper.fi/images/STOL-icon.png",
     "name": "Stabinol",
     "symbol": "STOL"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4058411967d5046f3510943103805be61f0600e",
+    "name": "STONK",
+    "symbol": "STONK",
+    "decimals": 18
   },
   {
     "address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
@@ -12913,6 +13173,13 @@
     "symbol": "TIG"
   },
   {
+    "chainId": 1,
+    "address": "0xa54c67bd320da4f9725a6f585b7635a0c09b122e",
+    "name": "TimeMiner",
+    "symbol": "TIME",
+    "decimals": 6
+  },
+  {
     "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
     "chainId": 1,
     "decimals": 18,
@@ -13257,6 +13524,13 @@
     "symbol": "TRY"
   },
   {
+    "chainId": 1,
+    "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+    "name": "BiLira",
+    "symbol": "TRYB",
+    "decimals": 6
+  },
+  {
     "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
     "chainId": 1,
     "decimals": 6,
@@ -13279,6 +13553,13 @@
     "logoURI": "https://zapper.fi/images/TSHP-icon.png",
     "name": "12Ships",
     "symbol": "TSHP"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd50825f50384bc40d5a10118996ef503b3670afd",
+    "name": "tsla.finance",
+    "symbol": "TSLA",
+    "decimals": 18
   },
   {
     "address": "0xd9bae39c725a1864b1133ad0ef1640d02f79b78c",
@@ -13519,6 +13800,13 @@
     "logoURI": "https://zapper.fi/images/ULT-icon.png",
     "name": "Shardus",
     "symbol": "ULT"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+    "name": "Ultra Token",
+    "symbol": "ULTRA",
+    "decimals": 4
   },
   {
     "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
@@ -13889,6 +14177,13 @@
     "symbol": "USDX"
   },
   {
+    "chainId": 1,
+    "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+    "name": "dForce",
+    "symbol": "USDx",
+    "decimals": 18
+  },
+  {
     "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
     "chainId": 1,
     "decimals": 18,
@@ -13967,6 +14262,13 @@
     "address": "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667",
     "chainId": 1,
     "logoURI": "ipfs://QmYNz8J1h5yefkaAw6tZwUYoJyBTWmBXgAY28ZWZ5rPsLR"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
+    "name": "UniFi",
+    "symbol": "UniFi",
+    "decimals": 18
   },
   {
     "name": "Uniswap LEND LP",
@@ -15265,6 +15567,13 @@
     "symbol": "YAMV2"
   },
   {
+    "chainId": 1,
+    "address": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a",
+    "name": "YAMv2",
+    "symbol": "YAMv2",
+    "decimals": 24
+  },
+  {
     "address": "0xb1dc9124c395c1e97773ab855d66e879f053a289",
     "chainId": 1,
     "decimals": 18,
@@ -16017,6 +16326,13 @@
     "symbol": "YYFI"
   },
   {
+    "chainId": 1,
+    "address": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577",
+    "name": "YfDAI.finance",
+    "symbol": "Yf-DAI",
+    "decimals": 18
+  },
+  {
     "address": "0x2cd9324ba13b77554592d453e6364086fbba446a",
     "chainId": 1,
     "decimals": 0,
@@ -16565,12 +16881,40 @@
     "symbol": "arNXM"
   },
   {
+    "chainId": 1,
+    "address": "0x34612903db071e888a4dadcaa416d3ee263a87b9",
+    "name": "ethart",
+    "symbol": "arte",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+    "name": "bAlpha",
+    "symbol": "bALPHA",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+    "name": "Badger Sett Badger",
+    "symbol": "bBADGER",
+    "decimals": 18
+  },
+  {
     "address": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/bDPI-icon.png",
     "name": "Interest Bearing Defi Pulse Index",
     "symbol": "bDPI"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+    "name": "dfohub",
+    "symbol": "buidl",
+    "decimals": 18
   },
   {
     "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
@@ -16611,6 +16955,13 @@
     "logoURI": "https://zapper.fi/images/cETH-icon.png",
     "name": "cETH",
     "symbol": "cETH"
+  },
+  {
+    "chainId": 1,
+    "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+    "name": "Compound Augur",
+    "symbol": "cREP",
+    "decimals": 8
   },
   {
     "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
@@ -16813,6 +17164,13 @@
     "symbol": "cyYFI"
   },
   {
+    "chainId": 1,
+    "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+    "name": "Meter Governance mapped by Meter.io",
+    "symbol": "eMTRG",
+    "decimals": 18
+  },
+  {
     "address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
     "chainId": 1,
     "decimals": 18,
@@ -16829,12 +17187,61 @@
     "symbol": "eXRD"
   },
   {
+    "chainId": 1,
+    "address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
+    "name": "Synth iADA",
+    "symbol": "iADA",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xafd870f32ce54efdbf677466b612bf8ad164454b",
+    "name": "Synth iBNB",
+    "symbol": "iBNB",
+    "decimals": 18
+  },
+  {
     "address": "0xd6014ea05bde904448b743833ddf07c3c7837481",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/iBTC-icon.png",
     "name": "iBTC",
     "symbol": "iBTC"
+  },
+  {
+    "chainId": 1,
+    "address": "0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d",
+    "name": "Synth iCEX",
+    "symbol": "iCEX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb98f42221b2c251a4e74a1609722ee09f0cc08e",
+    "name": "Synth iDASH",
+    "symbol": "iDASH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
+    "name": "Synth iDEFI",
+    "symbol": "iDEFI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4eebdd0704021ef2a6bbe993fdf93030cd784b4",
+    "name": "Synth iEOS",
+    "symbol": "iEOS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd50c1746d835d2770dda3703b69187bffeb14126",
+    "name": "Synth iETC",
+    "symbol": "iETC",
+    "decimals": 18
   },
   {
     "address": "0xa9859874e1743a32409f75bb11549892138bba1e",
@@ -16861,12 +17268,61 @@
     "symbol": "iFUND"
   },
   {
+    "chainId": 1,
+    "address": "0x2d7ac061fc3db53c39fe1607fb8cec1b2c162b01",
+    "name": "Synth iLINK",
+    "symbol": "iLINK",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x79da1431150c9b82d2e5dfc1c68b33216846851e",
+    "name": "Synth iLTC",
+    "symbol": "iLTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5807183a9661a533cb08cbc297594a0b864dc12",
+    "name": "Synth iTRX",
+    "symbol": "iTRX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4adf728e2df4945082cdd6053869f51278fae196",
+    "name": "Synth iXMR",
+    "symbol": "iXMR",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x27269b3e45a4d3e79a3d6bfee0c8fb13d0d711a6",
+    "name": "Synth iXRP",
+    "symbol": "iXRP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8deef89058090ac5655a99eeb451a4f9183d1678",
+    "name": "Synth iXTZ",
+    "symbol": "iXTZ",
+    "decimals": 18
+  },
+  {
     "address": "0xee8389d235e092b2945fe363e97cdbed121a0439",
     "chainId": 1,
     "decimals": 8,
     "logoURI": "https://zapper.fi/images/ibDAIv2-icon.png",
     "name": "Interest Bearing Dai Stablecoin v2",
     "symbol": "ibDAIv2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
+    "name": "Interest Bearing ETH",
+    "symbol": "ibETH",
+    "decimals": 18
   },
   {
     "address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
@@ -16917,6 +17373,13 @@
     "symbol": "imUSD"
   },
   {
+    "chainId": 1,
+    "address": "0x3f09400313e83d53366147e3ea0e4e2279d80850",
+    "name": "KUSH.FINANCE",
+    "symbol": "kSEED",
+    "decimals": 18
+  },
+  {
     "address": "0xd36932143f6ebdedd872d5fb0651f4b72fd15a84",
     "chainId": 1,
     "decimals": 18,
@@ -16939,6 +17402,13 @@
     "logoURI": "https://zapper.fi/images/mBABA-icon.png",
     "name": "Wrapped Mirror BABA Token",
     "symbol": "mBABA"
+  },
+  {
+    "chainId": 1,
+    "address": "0x945facb997494cc2570096c74b5f66a3507330a1",
+    "name": "mStable BTC",
+    "symbol": "mBTC",
+    "decimals": 18
   },
   {
     "address": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
@@ -17037,6 +17507,13 @@
     "symbol": "mbBASED"
   },
   {
+    "chainId": 1,
+    "address": "0x44ea84a85616f8e9cd719fc843de31d852ad7240",
+    "name": "NO Donald Trump",
+    "symbol": "nTrump",
+    "decimals": 15
+  },
+  {
     "address": "0x8064d9ae6cdf087b1bcd5bdf3531bd5d8c537a68",
     "chainId": 1,
     "decimals": 18,
@@ -17059,6 +17536,13 @@
     "logoURI": "https://zapper.fi/images/pBTC35A-icon.png",
     "name": "POW BTC-35W/T",
     "symbol": "pBTC35A"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+    "name": "pTokens LTC",
+    "symbol": "pLTC",
+    "decimals": 18
   },
   {
     "address": "0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84",
@@ -17117,6 +17601,27 @@
     "symbol": "renZEC"
   },
   {
+    "chainId": 1,
+    "address": "0xe36e2d3c7c34281fa3bc737950a68571736880a1",
+    "name": "Synth sADA",
+    "symbol": "sADA",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf48e200eaf9906362bb1442fca31e0835773b8b4",
+    "name": "Synth sAUD",
+    "symbol": "sAUD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+    "name": "Synth sBNB",
+    "symbol": "sBNB",
+    "decimals": 18
+  },
+  {
     "address": "0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6",
     "chainId": 1,
     "decimals": 18,
@@ -17125,12 +17630,54 @@
     "symbol": "sBTC"
   },
   {
+    "chainId": 1,
+    "address": "0xeabacd844a196d7faf3ce596edebf9900341b420",
+    "name": "Synth sCEX",
+    "symbol": "sCEX",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
+    "name": "Synth sCHF",
+    "symbol": "sCHF",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe33ae95a9f0da8a845af33516edc240dcd711d6",
+    "name": "Synth sDASH",
+    "symbol": "sDASH",
+    "decimals": 18
+  },
+  {
     "address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/sDEFI-icon.png",
     "name": "sDEFI",
     "symbol": "sDEFI"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6",
+    "name": "Synth sDOT",
+    "symbol": "sDOT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+    "name": "Synth sEOS",
+    "symbol": "sEOS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x22602469d704bffb0936c7a7cfcd18f7aa269375",
+    "name": "Synth sETC",
+    "symbol": "sETC",
+    "decimals": 18
   },
   {
     "address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
@@ -17157,12 +17704,61 @@
     "symbol": "sEUR"
   },
   {
+    "chainId": 1,
+    "address": "0x23348160d7f5aca21195df2b70f28fce2b0be9fc",
+    "name": "Synth sFTSE",
+    "symbol": "sFTSE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f",
+    "name": "Synth sGBP",
+    "symbol": "sGBP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d",
+    "name": "Synth sJPY",
+    "symbol": "sJPY",
+    "decimals": 18
+  },
+  {
     "address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/sLINK-icon.png",
     "name": "Synth sLINK",
     "symbol": "sLINK"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc14103c2141e842e228fbac594579e798616ce7a",
+    "name": "Synth sLTC",
+    "symbol": "sLTC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x757de3ac6b830a931ef178c6634c5c551773155c",
+    "name": "Synth sNIKKEI",
+    "symbol": "sNIKKEI",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+    "name": "Synth sOIL",
+    "symbol": "sOIL",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2e08356588ec5cd9e437552da87c0076b4970b0",
+    "name": "Synth sTRX",
+    "symbol": "sTRX",
+    "decimals": 18
   },
   {
     "address": "0x918da91ccbc32b7a6a0cc4ecd5987bbab6e31e6d",
@@ -17189,12 +17785,40 @@
     "symbol": "sUSDCurve"
   },
   {
+    "chainId": 1,
+    "address": "0x6a22e5e94388464181578aa7a6b869e00fe27846",
+    "name": "Synth sXAG",
+    "symbol": "sXAG",
+    "decimals": 18
+  },
+  {
     "address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://zapper.fi/images/sXAU-icon.png",
     "name": "sXAU",
     "symbol": "sXAU"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
+    "name": "Synth sXMR",
+    "symbol": "sXMR",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c",
+    "name": "Synth sXRP",
+    "symbol": "sXRP",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2e59005c5c0f0a4d77cca82653d48b46322ee5cd",
+    "name": "Synth sXTZ",
+    "symbol": "sXTZ",
+    "decimals": 18
   },
   {
     "address": "0x322124122df407b0d0d902cb713b3714fb2e2e1f",
@@ -17221,6 +17845,13 @@
     "symbol": "stZEN"
   },
   {
+    "chainId": 1,
+    "address": "0x160b1e5aabfd70b2fc40af815014925d71ceed7e",
+    "name": "StakeHound stakedXZC",
+    "symbol": "stakedXZC",
+    "decimals": 8
+  },
+  {
     "name": "Staked Aave",
     "decimals": 18,
     "symbol": "stkAAVE",
@@ -17245,6 +17876,13 @@
     "symbol": "uDAI"
   },
   {
+    "chainId": 1,
+    "address": "0x12f649a9e821f90bb143089a6e56846945892ffb",
+    "name": "uDOO",
+    "symbol": "uDOO",
+    "decimals": 18
+  },
+  {
     "address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
     "chainId": 1,
     "decimals": 6,
@@ -17267,6 +17905,20 @@
     "logoURI": "https://zapper.fi/images/vETH2-icon.png",
     "name": "validator-Eth2",
     "symbol": "vETH2"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3aef8e803bd9be47e69b9f36487748d30d940b96",
+    "name": "vesta",
+    "symbol": "vesta",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3383c5a8969dc413bfddc9656eb80a1408e4ba20",
+    "name": "Wrapped ANATHA",
+    "symbol": "wANATHA",
+    "decimals": 18
   },
   {
     "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
@@ -17309,6 +17961,13 @@
     "decimals": 18
   },
   {
+    "chainId": 1,
+    "address": "0x123151402076fc819b7564510989e475c9cd93ca",
+    "name": "wrapped-DGLD",
+    "symbol": "wDGLD",
+    "decimals": 8
+  },
+  {
     "address": "0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d",
     "chainId": 1,
     "decimals": 18,
@@ -17339,6 +17998,13 @@
     "logoURI": "https://zapper.fi/images/xAAVEb-icon.png",
     "name": "xAAVEb",
     "symbol": "xAAVEb"
+  },
+  {
+    "chainId": 1,
+    "address": "0xecbf566944250dde88322581024e611419715f7a",
+    "name": "xBTC",
+    "symbol": "xBTC",
+    "decimals": 9
   },
   {
     "address": "0x8f6a193c8b3c949e1046f1547c3a3f0836944e4b",
@@ -17387,6 +18053,13 @@
     "logoURI": "https://zapper.fi/images/xSUSHI-icon.png",
     "name": "SushiBar",
     "symbol": "xSUSHI"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
+    "name": "Curve Y Pool",
+    "symbol": "yCrv",
+    "decimals": 18
   },
   {
     "address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952",
@@ -17483,13 +18156,5 @@
     "logoURI": "https://zapper.fi/images/zLOT-icon.png",
     "name": "zLOT",
     "symbol": "zLOT"
-  },
-  {
-    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
-    "chainId": 1,
-    "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/aeternity_28_2.png",
-    "name": "Aeternity",
-    "symbol": "AE"
   }
 ]
