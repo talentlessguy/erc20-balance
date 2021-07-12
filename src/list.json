@@ -559,6 +559,24 @@
     "symbol": "ALPHA"
   },
   {
+    "chainId": 1,
+    "address": "0x4e83b6287588a96321b2661c5e041845ff7814af",
+    "name": "Altcoin Dominance Token 31 March 2021",
+    "symbol": "ALTDOM-MAR2021",
+    "decimals": 18
+  },
+  {
+    "name": "Alxocity",
+    "address": "0x4317Ea4820F8D9ea6A103553A89Cb261B6Ea7F2a",
+    "symbol": "ALXO",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/ALXO/alxo_token_image.png"
+  },
+  {
     "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
     "chainId": 1,
     "decimals": 18,
@@ -925,6 +943,17 @@
     "logoURI": "https://zapper.fi/images/ATRI-icon.png",
     "name": "Atari",
     "symbol": "ATRI"
+  },
+  {
+    "name": "All The Smoke",
+    "address": "0xE5f55a3b74874531a99359b833b92866A6609f6B",
+    "symbol": "ATS",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/ATS/a75fdf89-0a6a-4e8c-924a-1d998da553ca"
   },
   {
     "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
@@ -1870,6 +1899,17 @@
     "symbol": "BONE"
   },
   {
+    "name": "Bones",
+    "address": "0x3A75731f9e16244dE01DD431636Db7c07D42A166",
+    "symbol": "BONES",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/BONES/d8d555de-8062-44fb-82e8-2825235398a4"
+  },
+  {
     "address": "0x6d6506e6f438ede269877a0a720026559110b7d5",
     "chainId": 1,
     "decimals": 18,
@@ -1940,6 +1980,17 @@
     "logoURI": "https://zapper.fi/images/BOXX-icon.png",
     "name": "Blockparty",
     "symbol": "BOXX"
+  },
+  {
+    "name": "BPC",
+    "address": "0xF21D65979bD89b28f05EF19F3c65dd2A1D02946D",
+    "symbol": "BPC",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/BPC/8ff0304d-e761-4ff6-affd-042781121b09"
   },
   {
     "address": "0x426fc8be95573230f6e6bc4af91873f0c67b21b4",
@@ -2130,6 +2181,13 @@
     "logoURI": "https://zapper.fi/images/BTC++-icon.png",
     "name": "PieDAO BTC++",
     "symbol": "BTC++"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6b1257641d18791141f025eab36fb567c4b564ff",
+    "name": "Bitcoin Dominance Token 31 March 2021",
+    "symbol": "BTCDOM-MAR2021",
+    "decimals": 18
   },
   {
     "address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
@@ -2323,6 +2381,28 @@
     "symbol": "CAG"
   },
   {
+    "name": "Calvin",
+    "address": "0xdc8092AaF83e00Ebf9B01A2e90b7B7eF867ba503",
+    "symbol": "CALVIN",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/CALVIN/570a6590-9c86-42de-a43f-faae25e1a069"
+  },
+  {
+    "name": "CAMI",
+    "address": "0xA809CeDeE9B61956c768EAa10272dd5E0FD1A985",
+    "symbol": "CAMI",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/CAMI/d34a32c8-0f7a-422c-93ab-1a9fbd779ded"
+  },
+  {
     "address": "0x50eb346fc29a80d97563a50146c3fcf9423b5538",
     "chainId": 1,
     "decimals": 18,
@@ -2337,6 +2417,13 @@
     "logoURI": "https://zapper.fi/images/CAP-icon.png",
     "name": "Cap",
     "symbol": "CAP"
+  },
+  {
+    "chainId": 1,
+    "address": "0x89337BFb7938804c3776C9FB921EccAf5ab76758",
+    "name": "Compound Annualized Rate Future Expiring 28 March 2021",
+    "symbol": "CAR-USDC-MAR21",
+    "decimals": 18
   },
   {
     "address": "0x954b890704693af242613edef1b603825afcd708",
@@ -2808,6 +2895,17 @@
     "logoURI": "https://zapper.fi/images/COL-icon.png",
     "name": "Unit Protocol",
     "symbol": "COL"
+  },
+  {
+    "name": "Color",
+    "address": "0x3867ef780a3afcf1201ef4f2acc6a46e3bd1eb88",
+    "symbol": "COLR",
+    "tags": [
+      "nft"
+    ],
+    "decimals": 0,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/COLR/colr_tokenImage.png"
   },
   {
     "address": "0x1b4052d98fb1888c2bf3b8d3b930e0aff8a910df",
@@ -5596,6 +5694,17 @@
     "symbol": "FORCE"
   },
   {
+    "name": "Forcer",
+    "address": "0xc1fb6c015fc535abd331d3029de76a62e412fb23",
+    "symbol": "FORCER",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/FORCER/0a3a8b3f-f523-46d7-8313-43d97619c3f1"
+  },
+  {
     "address": "0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215",
     "chainId": 1,
     "decimals": 18,
@@ -5908,6 +6017,17 @@
     "symbol": "GBP"
   },
   {
+    "name": "Gcash",
+    "address": "0xc53f6C2Ac35D30cc47Ddf3C320874b21dFA38791",
+    "symbol": "GCASH",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/GCASH/0b75007a-1838-4f10-b395-9f0319d911b5"
+  },
+  {
     "address": "0x15c303b84045f67156acf6963954e4247b526717",
     "chainId": 1,
     "decimals": 18,
@@ -6128,6 +6248,17 @@
     "name": "GNYerc20",
     "symbol": "GNYerc20",
     "decimals": 18
+  },
+  {
+    "name": "Game Of Bitcoins",
+    "address": "0xE400013Df86249838B720eaB5a7F816aD82433c0",
+    "symbol": "GOB",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/GOB/f267e2bf-a480-4ec2-aad7-a5b57e09dcee"
   },
   {
     "address": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c",
@@ -6496,6 +6627,17 @@
     "logoURI": "https://zapper.fi/images/HEGIC-icon.png",
     "name": "Hegic",
     "symbol": "HEGIC"
+  },
+  {
+    "name": "HERO",
+    "address": "0x862caA11AbE48c945D5361E80EaF19348C479240",
+    "symbol": "HERO",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/HERO/b2be222b-7aff-4e5d-a70d-830d8ebf7144"
   },
   {
     "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
@@ -7807,6 +7949,17 @@
     "symbol": "LIF"
   },
   {
+    "name": "LIFE",
+    "address": "0x2Ad128fBEFF2B781D028148DEc82bBe2498Dc08e",
+    "symbol": "LIFE",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/LIFE/6ab751d6-db16-42d6-854b-ca3d920a48af"
+  },
+  {
     "address": "0x400b1d8a7dd8c471026b2c8cbe1062b27d120538",
     "chainId": 1,
     "decimals": 8,
@@ -8636,6 +8789,17 @@
     "symbol": "MNE"
   },
   {
+    "name": "MNFT",
+    "address": "0xDB7eB3edE973665b1BB9F3016861E3255062E4ED",
+    "symbol": "MNFT",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/MNFT/90f0a6d6-b100-40eb-a06f-ce72311ebca9"
+  },
+  {
     "address": "0x310da5e1e61cd9d6eced092f085941089267e71e",
     "chainId": 1,
     "decimals": 18,
@@ -9075,9 +9239,30 @@
   },
   {
     "chainId": 1,
+    "address": "0x84bd083b1c8bf929f39c98bc17cf518f40154f58",
+    "name": "Mario Cash Synthetic Token Expiring 15 January 2021",
+    "symbol": "Mario Cash-JAN-2021",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
     "name": "MarsToken",
     "symbol": "Mars",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x69746c719e59674b147df25f50e7cfa0673cb625",
+    "name": "Mini Mario Spring Cash",
+    "symbol": "Mini Mario Spring Cash",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x8104c9f13118320eefe5fbea8a44d600b85981ef",
+    "name": "Mini Mario Summer Cash",
+    "symbol": "Mini Mario Summer Cash",
     "decimals": 18
   },
   {
@@ -9438,6 +9623,17 @@
     "logoURI": "https://zapper.fi/images/NRCH-icon.png",
     "name": "EnreachDAO",
     "symbol": "NRCH"
+  },
+  {
+    "name": "NORMANCOMICS",
+    "address": "0x4282456d6d24332758fca738f98c3bb0F04da215",
+    "symbol": "NRMN",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/NRMN/cd68154b-c13f-4ea0-bf9f-0e5d1c24f5db"
   },
   {
     "chainId": 1,
@@ -9990,6 +10186,17 @@
     "symbol": "PASTA"
   },
   {
+    "name": "Paul",
+    "address": "0x8db6Da2120b346FAa7f206841f2FB005BBE0DFD8",
+    "symbol": "PAUL",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/PAUL/02cbfef1-39f1-471b-994d-ec26e30f1460"
+  },
+  {
     "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
     "chainId": 1,
     "decimals": 18,
@@ -10292,6 +10499,17 @@
     "logoURI": "https://zapper.fi/images/PITCH-icon.png",
     "name": "Pitch",
     "symbol": "PITCH"
+  },
+  {
+    "name": "Pixel",
+    "address": "0x1e906717De2E4A4600F13b6909736b0346bDde3E",
+    "symbol": "PIXEL",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/PIXEL/c2d1f8cf-491b-4b26-a574-054c6304c3ea"
   },
   {
     "address": "0x61bc1f530ac6193d73af1e1a6a14cb44b9c3f915",
@@ -10829,6 +11047,17 @@
     "symbol": "PWC"
   },
   {
+    "name": "PYGOZ",
+    "address": "0xbB98Fc1fD1080D2B8bdaD75c51D30B50c6F59b62",
+    "symbol": "PYGOZ",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/PYGOZ/a9cbb0d0-b06a-4a30-9866-13680345551b"
+  },
+  {
     "address": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2",
     "chainId": 1,
     "decimals": 18,
@@ -11157,6 +11386,17 @@
     "symbol": "RCKT"
   },
   {
+    "name": "Ross Campbell Legal Engineering",
+    "address": "0x5a844590c5b8f40ae56190771d06c60b9ab1da1c",
+    "symbol": "RCLE",
+    "tags": [
+      "other"
+    ],
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5A844590c5b8f40ae56190771d06c60b9ab1Da1C/logo.png"
+  },
+  {
     "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
     "chainId": 1,
     "decimals": 18,
@@ -11178,6 +11418,17 @@
     "name": "Raiden Token",
     "symbol": "RDNN",
     "decimals": 18
+  },
+  {
+    "name": "RADAR",
+    "address": "0x3C9Ca73d5309d38c6F2C21b78b9aE1f4b2441188",
+    "symbol": "RDR",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/RDR/66df9a02-9bf9-436c-bba8-ab3dcc99eeb1"
   },
   {
     "chainId": 1,
@@ -11838,6 +12089,17 @@
     "logoURI": "https://zapper.fi/images/SCIFI-icon.png",
     "name": "ScifiToken",
     "symbol": "SCIFI"
+  },
+  {
+    "name": "Scott",
+    "address": "0x27fD686Db10E0aE047fe8FE1DE9830C0e0dC3CFA",
+    "symbol": "SCOTT",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/SCOTT/98651769-fa5c-4030-940c-46cd9e07a9b5"
   },
   {
     "address": "0x6fa0952355607dfb2d399138b7fe10eb90f245e4",
@@ -13180,6 +13442,17 @@
     "decimals": 6
   },
   {
+    "name": "Tingles",
+    "address": "0xd1b183f425f7e6a0c83ab1cd84cfde2d84ba049d",
+    "symbol": "TING",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/TING/circle-cropped+(3).png"
+  },
+  {
     "address": "0x3a8cccb969a61532d1e6005e2ce12c200caece87",
     "chainId": 1,
     "decimals": 18,
@@ -13602,6 +13875,13 @@
     "symbol": "TVK"
   },
   {
+    "chainId": 1,
+    "address": "0x29dddacba3b231ee8d673dd0f0fa759ea145561b",
+    "name": "DEFI_PULSE_TOTAL_TVL Synthetic Token Expiring 15 April 2021",
+    "symbol": "TVL_ALL_APRIL15",
+    "decimals": 6
+  },
+  {
     "address": "0x98e0438d3ee1404fea48e38e92853bb08cfa68bd",
     "chainId": 1,
     "decimals": 8,
@@ -13823,6 +14103,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1062ad0e59fa67fa0b27369113098cc941dd0d5f",
+    "name": "UMA 35 Call Expirying 30 Apr 2021",
+    "symbol": "UMAc35-0421",
+    "decimals": 18
   },
   {
     "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
@@ -14863,6 +15150,17 @@
     "symbol": "WG0"
   },
   {
+    "name": "WGM",
+    "address": "0x219803d17f3067eb53d521ba8948d2734f402f7d",
+    "symbol": "WGM",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/WGM/e7681ea8-9413-408e-9bae-4dc84c233e73"
+  },
+  {
     "address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
     "chainId": 1,
     "decimals": 4,
@@ -15614,6 +15912,41 @@
     "symbol": "YCurve"
   },
   {
+    "chainId": 1,
+    "address": "0x4b7fb448df91c8ed973494f8c8c4f12daf3a8521",
+    "name": "Yield Dollar [renBTC Jun 2021]",
+    "symbol": "YD-BTC-JUN21",
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x002f0b1a71c5730cf2f4da1970a889207bdb6d0d",
+    "name": "YD-BTC-MAR21 Token Expiring 31 Mar 2021",
+    "symbol": "YD-BTC-MAR21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xe813b65da6c38a04591aed3f082d32db7d53c382",
+    "name": "Yield Dollar [WETH Dec 2021]",
+    "symbol": "YD-ETH-DEC21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xcbe430927370e95b4b10cfc702c6017ec7abefc3",
+    "name": "Yield Dollar [WETH Jun 2021]",
+    "symbol": "YD-ETH-JUN21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x90f802c7e8fb5d40b0de583e34c065a3bd2020d8",
+    "name": "YD-ETH-MAR21 Token Expiring 31 Mar 2021",
+    "symbol": "YD-ETH-MAR21",
+    "decimals": 18
+  },
+  {
     "address": "0x40b92fce37cefa03baf7603e7913c1d34dd1a4ec",
     "chainId": 1,
     "decimals": 8,
@@ -16294,6 +16627,17 @@
     "symbol": "YUI"
   },
   {
+    "name": "Yumi",
+    "address": "0x25859743ED0861665611B81E47682e889b48313B",
+    "symbol": "YUMI",
+    "tags": [
+      "roll"
+    ],
+    "decimals": 4,
+    "chainId": 1,
+    "logoURI": "https://roll-token.s3.amazonaws.com/YUMI/dc8606d3-ba3f-4b57-8f18-a8900eea7cdb"
+  },
+  {
     "address": "0x4b4f5286e0f93e965292b922b9cd1677512f1222",
     "chainId": 1,
     "decimals": 18,
@@ -16571,6 +16915,41 @@
     "logoURI": "https://zapper.fi/images/ZZZV2-icon.png",
     "name": "ZZZ V2",
     "symbol": "ZZZV2"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf55a7f92d5e0c6683debbc1fc20c0a6e056df13",
+    "name": "Zelda Elastic Cash",
+    "symbol": "Zelda Elastic Cash",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x5ed1406873c9eb91f6f9a67ac4e152387c1132e7",
+    "name": "Zelda Reinforced Cash",
+    "symbol": "Zelda Reinforced Cash",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x654eebac62240e6c56bab5f6adf7cfa74a894510",
+    "name": "Zelda Spring Nuts Cash",
+    "symbol": "Zelda Spring Nuts Cash",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa48920cc1ad85d8ea13af5d7be180c0338c306dd",
+    "name": "Zelda Summer Nuts Cash",
+    "symbol": "Zelda Summer Nuts Cash",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x249a198d59b57fda5dda90630febc86fd8c7594c",
+    "name": "Zelda Whirlwind Cash",
+    "symbol": "Zelda Whirlwind Cash",
+    "decimals": 18
   },
   {
     "name": "Aave Interest bearing Aave Token",
@@ -17545,6 +17924,34 @@
     "decimals": 18
   },
   {
+    "chainId": 1,
+    "address": "0x5247c0db4044fb6f97f32c7e1b48758019a5a912",
+    "name": "pxGOLD Synthetic Gold Expiring 31 Mar 2022",
+    "symbol": "pxGOLD_MAR2022",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x59fec83ec709c893aedd1a144cf1828eb04127cd",
+    "name": "pxGOLD Synthetic GOLD Expiring 31 May 2021",
+    "symbol": "pxGOLD_MAY2021",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf93340b1a3adf7eedcaec25fae8171d4b736e89f",
+    "name": "pxUSD Synthetic USD Expiring 1 April 2021",
+    "symbol": "pxUSD_MAR2021",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4b606e9eb2228c70f44453afe5a73e1fea258ce1",
+    "name": "pxUSD Synthetic USD Expiring 31 Mar 2022",
+    "symbol": "pxUSD_MAR2022",
+    "decimals": 18
+  },
+  {
     "address": "0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84",
     "chainId": 1,
     "decimals": 18,
@@ -17868,6 +18275,13 @@
     "symbol": "tBTC"
   },
   {
+    "chainId": 1,
+    "address": "0x56fb1acaff95c0b6ebcd17c8361a63d98b1a5a11",
+    "name": "uForex CNYUSD Synthetic Token April 2021",
+    "symbol": "uCNYUSD-APR",
+    "decimals": 6
+  },
+  {
     "address": "0x4ad0b81f92b16624bbcf46fc0030cfbbf8d02376",
     "chainId": 1,
     "decimals": 18,
@@ -17881,6 +18295,48 @@
     "name": "uDOO",
     "symbol": "uDOO",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd49fa405dce086c65d66ca1ca41f8e98583812b4",
+    "name": "uForex EURUSD Synthetic Token April 2021",
+    "symbol": "uEURUSD-APR",
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
+    "address": "0x81fab276aec924fbde190cf379783526d413cf70",
+    "name": "uGAS-FEB21 Token Expiring 28 Feb 2021",
+    "symbol": "uGAS-FEB21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3d995510f8d82c2ea341845932b5ddde0bead9a3",
+    "name": "uGAS-JAN21 Token Expiring 31 Jan 2021",
+    "symbol": "uGAS-JAN21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa6B9d7E3d76cF23549293Fb22c488E0Ea591A44e",
+    "name": "uGAS-JUN21 Token Expiring 30 Jun 2021",
+    "symbol": "uGAS-JUN21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4e110603e70b0b5f1c403ee543b37e1f1244cf28",
+    "name": "uGAS-MAR21 Token Expiring 31 Mar 2021",
+    "symbol": "uGAS-MAR21",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xec58d3aefc9aaa2e0036fa65f70d569f49d9d1ed",
+    "name": "uSTONKS Index Token April 2021",
+    "symbol": "uSTONKS_APR21",
+    "decimals": 6
   },
   {
     "address": "0xbc5991ccd8caceba01edc44c2bb9832712c29cab",
@@ -17897,6 +18353,27 @@
     "logoURI": "https://zapper.fi/images/uUSDT-icon.png",
     "name": "unagii_Tether USD",
     "symbol": "uUSDT"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf06ddacf71e2992e2122a1a0168c6967afdf63ce",
+    "name": "uUSDrBTC Synthetic Expiring 31 Dec 2020",
+    "symbol": "uUSDrBTC-DEC",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x208d174775dc39fe18b1b374972f77ddec6c0f73",
+    "name": "uUSDrBTC Synthetic Expiring 1 Oct 2020",
+    "symbol": "uUSDrBTC-OCT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xd16c79c8a39d44b2f3eb45d2019cd6a42b03e2a9",
+    "name": "uUSDwETH Synthetic Expiring 31 Dec 2020",
+    "symbol": "uUSDwETH-DEC",
+    "decimals": 18
   },
   {
     "address": "0x898bad2774eb97cf6b94605677f43b41871410b1",
@@ -18086,6 +18563,13 @@
     "symbol": "yTUSD"
   },
   {
+    "chainId": 1,
+    "address": "0x3108c33b6fb38efedaefd8b5f7ca01d5f5c7372d",
+    "name": "Yield Dollar UMA 21",
+    "symbol": "yUMA21",
+    "decimals": 18
+  },
+  {
     "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c",
     "chainId": 1,
     "decimals": 18,
@@ -18116,6 +18600,20 @@
     "logoURI": "https://zapper.fi/images/yUSDC-icon.png",
     "name": "yUSDC",
     "symbol": "yUSDC"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB2FdD60AD80ca7bA89B9BAb3b5336c2601C020b4",
+    "name": "yUSD Synthetic Expiring 1 October 2020",
+    "symbol": "yUSDOCT20",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5",
+    "name": "yUSD Synthetic Expiring 1 September 2020",
+    "symbol": "yUSDSEP20",
+    "decimals": 18
   },
   {
     "address": "0x2f08119c6f07c006695e079aafc638b8789faf18",
