@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-  <img src="logo.svg" width="450px" />
+  <img src="https://raw.githubusercontent.com/talentlessguy/erc20-balance/master/logo.svg" width="450px" />
   <br /><br />
 
 ![Vulnerabilities][vulns-badge-url] [![Version][v-badge-url]][npm-url] [![Downloads][dl-badge-url]][npm-url] [![GitHub Workflow Status][gh-actions-img]][github-actions] [![Codecov][cov-badge-url]][cov-url]
