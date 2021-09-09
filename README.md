@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Get 2340 ERC-20 token balances with JavaScript. Supports Node.js and Deno.
+Get 5612 ERC-20 token balances with JavaScript. Supports Node.js and Deno.
 
 > JSON file is generated using [TokenLists](https://tokenlists.org) endpoitns
 

@@ -1,0 +1,1 @@
+jq -n '{ tokens: [ inputs.tokens ] | add }' ./*.json > list.json
